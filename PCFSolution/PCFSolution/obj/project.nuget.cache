@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "2hb6SsCT7uArJd8Bzf3oUn5G9QebDqZ/sZVu9bGWT28/X4lGxqwbfxF0KVHUXrlVTUjazgXbn3G4kPvsUHkoow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IrfanaJafferSadhik\\source\\repos\\PCFSolution\\PCFSolution\\PCFSolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IrfanaJafferSadhik\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\IrfanaJafferSadhik\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\IrfanaJafferSadhik\\.nuget\\packages\\skiasharp.nativeassets.linux\\2.88.3\\skiasharp.nativeassets.linux.2.88.3.nupkg.sha512",
+    "C:\\Users\\IrfanaJafferSadhik\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\IrfanaJafferSadhik\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
+    "C:\\Users\\IrfanaJafferSadhik\\.nuget\\packages\\syncfusion.compression.net\\20.4.0.54\\syncfusion.compression.net.20.4.0.54.nupkg.sha512",
+    "C:\\Users\\IrfanaJafferSadhik\\.nuget\\packages\\syncfusion.licensing\\20.4.0.54\\syncfusion.licensing.20.4.0.54.nupkg.sha512",
+    "C:\\Users\\IrfanaJafferSadhik\\.nuget\\packages\\syncfusion.pdf.imaging.net\\20.4.0.54\\syncfusion.pdf.imaging.net.20.4.0.54.nupkg.sha512",
+    "C:\\Users\\IrfanaJafferSadhik\\.nuget\\packages\\syncfusion.pdf.net\\20.4.0.54\\syncfusion.pdf.net.20.4.0.54.nupkg.sha512",
+    "C:\\Users\\IrfanaJafferSadhik\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\IrfanaJafferSadhik\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
